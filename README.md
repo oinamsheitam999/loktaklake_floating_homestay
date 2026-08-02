@@ -1,0 +1,1 @@
+Loktak Floatel is a modern online booking website for the floating hotel on Loktak Lake, Manipur. It allows visitors to explore rooms, check availability, make secure online bookings, view a photo gallery, enjoy a virtual tour, and experience the beauty of Loktak Lake with a simple and user-friendly interface.
