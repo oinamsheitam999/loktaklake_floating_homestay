@@ -1,0 +1,8 @@
+{
+  "name": "loktak-floatel-functions",
+  "version": "1.0.0",
+  "dependencies": {
+    "twilio": "^4.19.3",
+    "@sendgrid/mail": "^7.7.0"
+  }
+}
